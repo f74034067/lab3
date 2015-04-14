@@ -1,0 +1,9 @@
+Question A:g++ -o laba laba.cpp
+Question B:make
+size		O(nlogn)	O(n^2)
+1000            0               0
+10000           0               1.28
+100000          0.03            128.42
+1000000         0.51            12867.3
+
+
